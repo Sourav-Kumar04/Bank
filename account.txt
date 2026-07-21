@@ -7,4 +7,4 @@ date of creation
 rm name
 rm id
 edu loan
-home loan
+car loan
