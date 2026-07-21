@@ -1,0 +1,9 @@
+bank acc
+cust id
+cust name
+acc bal
+ac id
+date of creation
+rm name
+rm id
+edu loan
